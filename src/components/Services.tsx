@@ -18,7 +18,7 @@ export default function Services(): JSX.Element {
           <span className="eyebrow">O que ofereço</span>
           <h2 className="section-title centered">Cuidado em cada fase</h2>
           <p className="section-sub">
-            Um acompanhamento completo, pensado para respeitar seu ritmo, seu corpo e a chegada da sua bebê.
+            Um acompanhamento completo, pensado para respeitar seu ritmo, seu corpo e a chegada do seu bebê.
           </p>
         </div>
         <div className="services-grid">

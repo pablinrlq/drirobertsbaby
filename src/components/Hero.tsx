@@ -35,7 +35,7 @@ export default function Hero(): JSX.Element {
         <div className="hero-text">
           <span className="eyebrow">+ de 25 anos cuidando da sua história</span>
           <h1>
-            Acolher, cuidar e <em>celebrar</em> a chegada da sua bebê.
+            Acolher, cuidar e <em>celebrar</em> a chegada do seu bebê.
           </h1>
           <div className="hero-tagline">
             <span className="hero-tagline-dot" />
