@@ -43,7 +43,7 @@ export default function Hero(): JSX.Element {
           </div>
           <p className="hero-sub">
             Sou <strong>Adriana Roberto</strong>, enfermeira obstetra e especialista em saúde da família,
-            dedicada ao parto humanizado e ao cuidado integral da mulher em Contagem/MG.
+            dedicada ao parto humanizado e ao cuidado integral da mulher em Belo Horizonte e toda região metropolitana.
           </p>
           <div className="hero-cta">
             <a href={link} target="_blank" rel="noopener noreferrer" className="btn btn-primary">

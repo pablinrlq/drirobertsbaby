@@ -13,7 +13,7 @@ export const SERVICES: readonly Service[] = [
   },
   {
     icon: '🌿',
-    title: 'Indução ao Parto',
+    title: 'Indução natural ao Parto',
     description:
       'Métodos naturais e seguros para estimular o trabalho de parto, sempre baseados em evidência e em conjunto com sua equipe médica.',
   },
